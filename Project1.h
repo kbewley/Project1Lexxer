@@ -1,0 +1,12 @@
+#define STATEMENT 1
+#define COMPARISON 2
+#define OPERATOR 3
+#define TYPE 4
+#define IDENTIFIER 5
+#define INTEGER 6
+#define FLOAT 7
+#define LEFTBRACE 8
+#define RIGHTBRACE 9
+#define LEFTPAR 10
+#define RIGHTPAR 11
+#define NEXTLINE 12
