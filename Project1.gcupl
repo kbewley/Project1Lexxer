@@ -1,1 +1,10 @@
-if (x == 4) x + 4 = 8;
+int x;
+int y;
+int sum(int x, int y){
+    int x;
+    x = 4;
+    int total;
+    total = x + y;
+    return total;
+}
+int x;
